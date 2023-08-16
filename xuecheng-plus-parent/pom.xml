@@ -184,8 +184,6 @@
         </dependencies>
     </dependencyManagement>
 
-
-
     <build>
         <finalName>${project.name}</finalName>
         <!--编译打包过虑配置-->
