@@ -1,4 +1,4 @@
-package com.xuecheng.base.config;
+package com.xuecheng.system.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -10,7 +10,7 @@ import org.springframework.web.filter.CorsFilter;
  * @ClassName GlobalCorsConfig
  * @Description 跨域过虑器
  * @Author sdy
- * @Date 2023/8/17 10:47
+ * @Date 2023/8/17 11:58
  */
 @Configuration
 public class GlobalCorsConfig {
